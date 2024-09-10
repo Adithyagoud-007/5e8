@@ -1,1 +1,1 @@
-console.log("WElcome to 5e5")
+console.log("Welcome to 5e5")
